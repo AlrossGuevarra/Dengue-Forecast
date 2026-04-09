@@ -1,2 +1,0 @@
-thr_high,thr_low,score,balanced_accuracy,high_risk_f1,high_risk_precision,high_risk_recall
-0.4,0.3,0.3743375458352753,0.7413726013571568,0.33348314606741575,0.3328349282296651,0.3341338937256079
